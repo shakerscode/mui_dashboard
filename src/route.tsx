@@ -19,7 +19,7 @@ const router = createBrowserRouter([
         element: <Moduli />,
       },
       {
-        path: "nouvo",
+        path: "nuovo",
         element: <Nuovo />,
       },
     ],
